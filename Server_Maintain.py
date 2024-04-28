@@ -31,6 +31,8 @@ Crash_Restarts = 0
 Daily_Restarts = 0
 Restart_canceled_online = 0
 
+# Wait one minute upon first starting the program to do anything. 
+time.sleep(60)
 
 while 1 == 1:
 
